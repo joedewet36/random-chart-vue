@@ -16,7 +16,7 @@ A fun and interactive score animation app built with **Vue 3 (Composition API)**
 
 ## 📸 Preview
 
-![screenshot](./screenshot.png)  
+![screenshot](./public/screen.png)  
 *A beautifully animated circular score display using SVG and Tailwind.*
 
 ---
