@@ -26,11 +26,12 @@ A fun and interactive score animation app built with **Vue 3 (Composition API)**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/random-score-animation.git
-cd random-score-animation
-
+git clone https://github.com/joedewet36/random-chart-vue.git
+cd random-chart-vue
+```
 ### 2. Install Dependencies
     Make sure you have Node.js installed.
 ```bash    
 npm install
+```
 
