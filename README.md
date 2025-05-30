@@ -34,4 +34,20 @@ Make sure you have Node.js installed.
 ```bash    
 npm install
 ```
+### 3. Run the App in Development Mode
+```bash    
+npm run serve
+```
+Then open http://localhost:8080 in your browser to view the app.
 
+### 🛠️ Technologies Used
+- Vue.js 3 with Composition API 
+- Tailwind CSS
+- SVG – Animated circular progress
+- Vue CLI – Project scaffolding and build tool
+
+### 🧠 Design Decisions
+- The Composition API was chosen for cleaner logic organization and reusability.
+- Tailwind CSS simplifies styling and ensures a consistent, utility-based design.
+- SVG enables lightweight, scalable, and visually rich animations for score feedback.
+- Project is structured for extensibility and easy testing with Vue’s standard tooling.
