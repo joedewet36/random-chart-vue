@@ -30,7 +30,7 @@ git clone https://github.com/joedewet36/random-chart-vue.git
 cd random-chart-vue
 ```
 ### 2. Install Dependencies
-    Make sure you have Node.js installed.
+Make sure you have Node.js installed.
 ```bash    
 npm install
 ```
