@@ -1,4 +1,4 @@
-# 🎯 Random Score Animation – Vue.js + Composition API + Tailwind CSS + SVG
+# 🎯 Random Score Animation
 
 A fun and interactive score animation app built with **Vue 3 (Composition API)**, **Tailwind CSS**, and **SVG**. This app animates score updates using dynamic SVG circles, providing a clean, responsive, and engaging UI.
 
@@ -51,3 +51,8 @@ Then open http://localhost:8080 in your browser to view the app.
 - Tailwind CSS simplifies styling and ensures a consistent, utility-based design.
 - SVG enables lightweight, scalable, and visually rich animations for score feedback.
 - Project is structured for extensibility and easy testing with Vue’s standard tooling.
+
+### 📦 Building for Production
+```bash    
+npm run build
+```
