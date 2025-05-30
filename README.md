@@ -4,6 +4,12 @@ A fun and interactive score animation app built with **Vue 3 (Composition API)**
 
 ---
 
+## 🌐 Live Demo
+
+The app is deployed and accessible online via Netlify:
+
+🔗 **[View Live Site](https://randomscoreanimate.netlify.app/)**
+
 ## 🌟 Features
 
 - 🎲 Randomized score updates  
